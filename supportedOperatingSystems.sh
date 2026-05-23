@@ -1,2 +1,2 @@
-$ support win
-$ support unix
+support win
+support unix
