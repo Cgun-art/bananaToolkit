@@ -1,0 +1,2 @@
+if colorformat.max(r(248), g(128), b(94)), colorformat.min(r(25), g(25), b(25)),
+then colorformat.add = true
