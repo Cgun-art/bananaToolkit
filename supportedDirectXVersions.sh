@@ -1,2 +1,2 @@
-$ support DirectX11
-$ support DirectX12
+support DirectX11
+support DirectX12
