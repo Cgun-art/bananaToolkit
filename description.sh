@@ -1,1 +1,1 @@
-$ desc format /description.txt/
+desc format /description.txt/
