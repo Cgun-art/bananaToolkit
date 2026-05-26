@@ -1,0 +1,4 @@
+ FULL $30 if Render not(high(GLSLver(2.0))))
+ FILL $1024 if Render vended = return; true ; pirated = return; false
+ TRUNKFULL $0 return none
+ TRUNKFULL $0AddNumValueIgnoreElse return nan; value.instance.js(nan, force)
